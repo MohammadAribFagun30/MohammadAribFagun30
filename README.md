@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Arib</h1>
-![GitHub Contributions](https://ghchart.rshah.org/MohammadAribFagun30)
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🌱 I’m currently learning **Java**
