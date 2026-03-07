@@ -1,5 +1,14 @@
 # 💫 About Me:
 I am a 2nd year, 3rd semester student pursuing a Bachelor of Science in Computer Science and Engineering (CSE) at International Islamic University Chittagong. I am highly passionate about software development and competitive programming, and I enjoy continuously improving my problem-solving skills.<br><br>I have experience with C, C++, HTML, CSS, and JavaScript, and I am actively expanding my knowledge by building projects and practicing programming regularly.<br><br>In addition, I run a YouTube channel where I teach my semester subjects to my batchmates, which has helped me strengthen both my technical understanding and communication skills.<br><br>I am a hardworking, self-motivated learner who is always eager to take on new challenges and grow as a software developer.<br>
+<h1 align="center">Hi 👋, I'm Arib</h1>
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🌱 I’m currently learning **Java**
+
+💻 I love **Programming**
+
+🚀 Future Software Engineer
 
 
 ## 🌐 Socials:
