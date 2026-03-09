@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arib</h1>
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🌱 I’m currently learning **Java**
+🌱 I’m currently learning **Java** and **Python**
 
 💻 I love **Programming**
 
