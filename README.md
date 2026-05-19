@@ -22,9 +22,14 @@ I am a 2nd year, 3rd semester student pursuing a Bachelor of Science in Computer
 ![](https://nirzak-streak-stats.vercel.app/?user=MohammadAribFagun30&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAribFagun30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📈 GitHub Activity Graph
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="./assets/github-activity.png" width="500"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohammadAribFagun30&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammadAribFagun30&theme=github_dark" />
 </p>
 
 ## 🏆 GitHub Trophies
