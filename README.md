@@ -9,18 +9,13 @@
 # 💫 About Me:
 I am a 2nd year, 3rd semester student pursuing a Bachelor of Science in Computer Science and Engineering (CSE) at International Islamic University Chittagong. I am highly passionate about software development and competitive programming, and I enjoy continuously improving my problem-solving skills.<br><br>I have experience with C, C++, HTML, CSS, and JavaScript, and I am actively expanding my knowledge by building projects and practicing programming regularly.<br><br>In addition, I run a YouTube channel where I teach my semester subjects to my batchmates, which has helped me strengthen both my technical understanding and communication skills.<br><br>I am a hardworking, self-motivated learner who is always eager to take on new challenges and grow as a software developer.<br>
 
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/md.arib.3994) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammadarib-fagun-865373364/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@mohammadaribfagun) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammadarib23@gmail.com) 
-
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://facebook.com/[YOUR_FACEBOOK](https://www.facebook.com/md.arib.3994)"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+<a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/mohammadarib-fagun-865373364/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://skillicons.dev/icons?i=youtube" /></a>
-<a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="mailto:mohammadarib23@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 <h2>🛠️ Languages & Tools</h2>
