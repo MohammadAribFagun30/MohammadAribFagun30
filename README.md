@@ -12,7 +12,7 @@ I am a 2nd year, 3rd semester student pursuing a Bachelor of Science in Computer
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/[YOUR_USERNAME](https://github.com/MohammadAribFagun30)"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com/https://github.com/MohammadAribFagun30"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://facebook.com/YOUR_FACEBOOK"><img src="https://skillicons.dev/icons?i=facebook" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://skillicons.dev/icons?i=youtube" /></a>
