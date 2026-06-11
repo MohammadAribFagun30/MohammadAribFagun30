@@ -22,7 +22,7 @@ I am a 2nd year, 3rd semester student pursuing a Bachelor of Science in Computer
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,py,cpp,c,tailwind,css,html,express,nodejs,mongodb,mysql,postgres,docker,linux,git,figma&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,html,css,github,git,vscode,idea,mysql,spring,discord&perline=14" />
   </a>
 </p>
 
