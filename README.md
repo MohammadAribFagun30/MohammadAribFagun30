@@ -7,7 +7,9 @@
 
 🚀 Future Software Engineer
 # 💫 About Me:
-I am a 2nd year, 3rd semester student pursuing a Bachelor of Science in Computer Science and Engineering (CSE) at International Islamic University Chittagong. I am highly passionate about software development and competitive programming, and I enjoy continuously improving my problem-solving skills.<br><br>I have experience with C, C++, HTML, CSS, and JavaScript, and I am actively expanding my knowledge by building projects and practicing programming regularly.<br><br>In addition, I run a YouTube channel where I teach my semester subjects to my batchmates, which has helped me strengthen both my technical understanding and communication skills.<br><br>I am a hardworking, self-motivated learner who is always eager to take on new challenges and grow as a software developer.<br>
+I am a Computer Science and Engineering student with a strong interest in software development, competitive programming, and problem-solving. I have a foundation in C, C++, HTML, CSS, and JavaScript, and I am continuously strengthening my technical skills through regular coding practice and hands-on projects.
+
+Beyond programming, I run a YouTube channel where I explain semester-related subjects to my peers, helping me develop strong communication skills and a deeper understanding of core concepts. I am committed to continuous learning, writing efficient code, and building practical solutions while working toward becoming a skilled software developer..<br>
 
 ## 🌐 Connect with Me
 
