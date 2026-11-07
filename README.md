@@ -22,7 +22,7 @@ I'm a Computer Science and Engineering student passionate about programming, pro
   <a href="https://github.com/MohammadAribFagun30"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.facebook.com/md.arib.3994"><img src="https://skillicons.dev/icons?i=facebook" /></a>
   <a href="https://www.linkedin.com/in/mohammadarib-fagun-865373364/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://skillicons.dev/icons?i=youtube" /></a>
+  <a href="https://youtube.com/@mohammadaribfagun?si=5d73TqM20PZ5wt57"><img src="https://skillicons.dev/icons?i=youtube" /></a>
   <a href="mailto:mohammadarib23@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
