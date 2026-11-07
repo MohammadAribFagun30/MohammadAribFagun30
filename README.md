@@ -30,7 +30,7 @@ I'm a Computer Science and Engineering student passionate about programming, pro
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,html,css,github,git,vscode,idea,mysql,spring,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,html,css,react,github,git,vscode,idea,mysql,spring,discord&perline=14" />
   </a>
 </p>
 
