@@ -1,15 +1,20 @@
-<h1 align="center">Hi 👋, I'm Arib</h1>
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+👋 Hi, I'm Arib!
 
-🌱 I’m currently learning **Java** and **Python**
+<h3 align="center">Computer Science & Engineering Student | Aspiring Software Engineer</h3>
 
-💻 I love **Programming**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Passionate+Programmer;Competitive+Programming+Enthusiast;Exploring+Software+Development;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
-🚀 Future Software Engineer
-# 💫 About Me:
-I am a Computer Science and Engineering student with a strong interest in software development, competitive programming, and problem-solving. I have a foundation in C, C++, HTML, CSS, and JavaScript, and I am continuously strengthening my technical skills through regular coding practice and hands-on projects.
+<p align="center">
+  <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
+</p>
 
-Beyond programming, I run a YouTube channel where I explain semester-related subjects to my peers, helping me develop strong communication skills and a deeper understanding of core concepts. I am committed to continuous learning, writing efficient code, and building practical solutions while working toward becoming a skilled software developer..<br>
+🚀 About Me
+
+I'm a Computer Science and Engineering student passionate about programming, problem-solving, and building software solutions.
+
+<br clear="right"/>
 
 ## 🌐 Connect with Me
 
