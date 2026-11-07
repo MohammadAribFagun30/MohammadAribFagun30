@@ -37,22 +37,21 @@ I'm a Computer Science and Engineering student passionate about programming, pro
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohammadAribFagun30&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAribFagun30&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=MohammadAribFagun30&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MohammadAribFagun30&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=MohammadAribFagun30&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=MohammadAribFagun30&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadAribFagun30&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://ghchart.rshah.org/36BCF7/MohammadAribFagun30" alt="GitHub Contribution Graph" />
 </p>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
