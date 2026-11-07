@@ -34,15 +34,23 @@ I'm a Computer Science and Engineering student passionate about programming, pro
   </a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohammadAribFagun30&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MohammadAribFagun30&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAribFagun30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🔥 GitHub Streak
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohammadAribFagun30&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAribFagun30&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=MohammadAribFagun30&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadAribFagun30&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 
