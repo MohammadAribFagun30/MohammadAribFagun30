@@ -41,17 +41,7 @@ I'm a Computer Science and Engineering student passionate about programming, pro
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MohammadAribFagun30&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🔥 Contribution Streak
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=MohammadAribFagun30&theme=tokyonight&hide_border=true" />
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/36BCF7/MohammadAribFagun30" alt="GitHub Contribution Graph" />
-</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
